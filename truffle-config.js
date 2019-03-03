@@ -16,6 +16,7 @@ module.exports = {
       provider: function() {
         const test = new HDWalletProvider(
           MNEMONIC,
+          // Insert correct api key
           "https://ropsten.infura.io/v3/05757e5be84242a480a2401074e5d429"
         );
         return test;

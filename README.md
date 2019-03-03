@@ -1,7 +1,33 @@
 #C2 Auction Contracts
-Taken from `sample-crowdsale-starter` 
+Taken from `sample-crowdsale-starter`
 
-##Deployed Contracts
+## Deployed Contracts
+
 contract 1 0x2db23097d5bbd1a0dac673939df5eea886d4241f
 contract 1 0x4e3468981f78c1db51029c92e19278b77f380eba
 contract 2 0x476b5adfe3efa0e011830cc16f89b4d571ef4a0b
+
+## Wallets
+
+Main minter - `water kingdom claw vessel topic toy common cabbage hockey decrease parrot emerge scout noodle cat` - `0x35168801AF9997Cea82b6a2bD7c33138999bf18e`
+
+Wallet 1:
+`0x3aa6e50278bA337df33ef4bc1D47E93480DceAdc` - `0x38f5191294b3ec13f89f49b9d7d701a3717ed3fddd73b9c5c9ae371f41b30668`
+Wallet 2:
+`0x19Ea095AF7392e072d317c4f7B6cdA844f6DEACA` - `0x5d53428027637774d5b957c8737eb3d5545178a47cbac0f864a98701c57d7a37`
+Wallet 3:
+`0x9f7D4a994947C77FD74090f23e93852e667ABF10` - `0x3164073ffb883df3200d1c0efe84fdb28155ea42d2c39f2e8b757bfbd7774aff`
+Wallet 4:
+`0xBf606bC4BF09E5869189daC0463560413489faF3` - `0x7e6e05aec8a82b83542bcd3fa9f894a203d815dda845d87b8825a9f6daf6721d`
+wallet 5:
+`0xFe895fa09eED340c998fE4Bb02047D9161F1152f` - `0x0e268eeb2e2b6364baaf74b2d20b71e2368951a8df73643bfcaa698424c8b4d8`
+wallet 6:
+`0x20a4ee1084A0EAa643A887b5f23CEb3FeF4F7477` - `0xff98c12623942404ef08b2d2770840e6078e4fd9bf9cd7b50b6c549c3fab3214`
+wallet 7:
+`0x114402797b6c2f3ae582a1AE3d06F65a68b8Bdf5` - `0x36a139310612acab185a69ad40e0b372a38146c2fdc390425f9adde464aade8a`
+wallet 8:
+`0xa02a97897910890F2F3df2717675cB8da44BA619` - `0x26d776ad29598d8e8bf05f41935bfc3aeec3726c33f0844d8228134d6debdb47`
+wallet 9:
+`0x9CefCc8a984F046625884d2F80ca0053df6035cb` - `0xcfac15821c44709cf0baf65cc227c1056a68d710090ca896ca2410de9a012df9`
+wallet 10:
+`0x65b8d6273aa4A100904E7E7E8BD3Bd8d3C226934` - `0x626fe4f84f925cfb8b0d16a909a9c63469860b746877cf7bce816f9125e5e999`
