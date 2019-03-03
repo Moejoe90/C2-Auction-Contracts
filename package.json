@@ -12,7 +12,9 @@
   "author": "Santiago Palladino <santiago@zeppelin.solutions>",
   "license": "MIT",
   "dependencies": {
-    "zeppelin-solidity": "^1.6.0"
+    "openzeppelin-solidity": "https://github.com/OpenZeppelin/openzeppelin-solidity",
+    "truffle-hdwallet-provider": "^1.0.5",
+    "zeppelin-solidity": "1.6.0"
   },
   "devDependencies": {
     "babel-polyfill": "^6.26.0",
@@ -21,6 +23,7 @@
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
     "chai-bignumber": "^2.0.2",
-    "truffle": "^4.0.5"
+    "ganache-cli": "^6.3.0",
+    "truffle": "4.0.5"
   }
 }
